@@ -7,7 +7,7 @@ This repository contains the dataset for the Manipuri Mathematical Entity Recogn
 
 ---
 
-## 📊 Dataset Description
+## Dataset Description
 
 The development of a Math Entity (ME) corpus is fundamental for computational processing. The dataset used in this study was extracted from a standard Manipuri-medium mathematics textbook for Class IX (চৈশীংলোন ক্লাস IX গী তম্নলাইরীক) using `Python-tesseract` (OCR). 
 
